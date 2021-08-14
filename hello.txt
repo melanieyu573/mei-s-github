@@ -7,3 +7,4 @@ hello git ym
 
 hot-fix change1
 3333333 master change
+2222222 hot-fix change2
